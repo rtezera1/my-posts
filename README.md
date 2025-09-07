@@ -2,7 +2,7 @@
 
 ## Intro
 
-Displays items from a (publically available API)[https://jsonplaceholder.typicode.com/]. 
+Displays items from a [publically available API](https://jsonplaceholder.typicode.com/). 
 
 The items are sortable
 
